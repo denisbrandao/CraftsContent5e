@@ -1,0 +1,16 @@
+{
+    "name": "CraftsContent5e",
+    "title": "Crafts Content for DnD5e",
+    "description": "A simple module for compendium on Crafts for DnD5e components and itens",
+    "author": "Denisbrandao",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.0",
+    "compatibleCoreVersion": "0.9.0",
+    "authors": [
+        {
+          "name": "Dênis Brandão",
+          "email": "eu@denisbrandao.com",
+          "url": "https://github.com/denisbrandao/CraftsContent5e"
+        }
+      ]
+  }
